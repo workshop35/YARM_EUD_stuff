@@ -7,7 +7,7 @@
 - 1x [Main Body](https://github.com/justcallmekoko/YetAnotherRuggedMeshtasticEUD/blob/main/Mechanical/STLs/Main%20Body.stl)
 - 1x [Gasket](https://github.com/justcallmekoko/YetAnotherRuggedMeshtasticEUD/blob/main/Mechanical/STLs/Gasket.stl)
 - 1x [Knob](https://github.com/justcallmekoko/YetAnotherRuggedMeshtasticEUD/blob/main/Mechanical/STLs/Knob.stl)
-- 1x [56D36-01-2-AJN Rotary Switch](https://www.digikey.com/en/products/detail/grayhill-inc/56D36-01-2-AJN/98655?so=90339612&content=productdetail_US&mkt_tok=MDI4LVNYSy01MDcAAAGXvbUMWbtlMvQAupV8Ck5lBFFVVSDlkhyInphl-hRBXRFsCPvrMsqdvFUHdgBZHalmd2k1IX_jB49QeoRVtKQcSG6KiEiH9i4HQ65XOE2G)
+- 1x [56D36-01-2-AJN Rotary Switch](https://www.digikey.com/en/products/detail/grayhill-inc/56D36-01-2-AJN/98655?s=N4IgTCBcDaIKwDYAiBmBBaADARnWdAggFIByIAugL5A) or [56SDP36-01-2-AJN Rotary Switch](https://www.digikey.com/en/products/detail/grayhill-inc/56SDP36-01-2-AJN/2678565)
 - 1x [USB-C Adapter](https://www.aliexpress.us/item/3256804440339698.html?spm=a2g0o.order_list.order_list_main.69.551b1802ttIMoC&gatewayAdapt=glo2usa)
 - 1x [USB-C Adapter Cap](https://www.aliexpress.us/item/3256805936943547.html?spm=a2g0o.order_list.order_list_main.74.551b1802ttIMoC&gatewayAdapt=glo2usa)
 - 2x [SMA Connector](https://www.digikey.com/en/products/detail/gct/cab412rf-0100-a-1-e/22251137)
