@@ -10,7 +10,7 @@
 - 1x [56D36-01-2-AJN Rotary Switch](https://www.digikey.com/en/products/detail/grayhill-inc/56D36-01-2-AJN/98655?so=90339612&content=productdetail_US&mkt_tok=MDI4LVNYSy01MDcAAAGXvbUMWbtlMvQAupV8Ck5lBFFVVSDlkhyInphl-hRBXRFsCPvrMsqdvFUHdgBZHalmd2k1IX_jB49QeoRVtKQcSG6KiEiH9i4HQ65XOE2G)
 - 1x [USB-C Adapter](https://www.aliexpress.us/item/3256804440339698.html?spm=a2g0o.order_list.order_list_main.69.551b1802ttIMoC&gatewayAdapt=glo2usa)
 - 1x [USB-C Adapter Cap](https://www.aliexpress.us/item/3256805936943547.html?spm=a2g0o.order_list.order_list_main.74.551b1802ttIMoC&gatewayAdapt=glo2usa)
-- 2x [SMA Connector](https://www.digikey.com/en/products/detail/gradconn/CABLE-375-RF-100-A-2/15648536?so=90342196&content=productdetail_US&mkt_tok=MDI4LVNYSy01MDcAAAGXwwiaXBdYznPDTqBldsHjLiG8oexGJy80BgjIHF1Ixekr4lIpYO65KGEQlWKVjUUzNId9IQktJcATY5-iL_TuqiXyrpijkfv7OiBukrZe)
+- 2x [SMA Connector](https://www.digikey.com/en/products/detail/gct/cab412rf-0100-a-1-e/22251137)
 - 3x [Light Pipe](https://www.digikey.com/en/products/detail/visual-communications-company-vcc/LMC-080-CTP/4515531?so=90373260&content=productdetail_US&mkt_tok=MDI4LVNYSy01MDcAAAGX0MQASlnBdqnk_A_6-qsaQpySAVFtRW1V2aL_yuqiJkK8GdLw7qbNu7k92KyTDxIo68lhwqGd2r5rppqj1dw4OAeHWfHPXsyYTJiT8VoO)
 - 6x [M3 Brass Insert](https://www.mcmaster.com/94180A331/)
 - 6x [M3 x 30mm Screws](https://www.mcmaster.com/91294A141/)
