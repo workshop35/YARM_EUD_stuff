@@ -19,3 +19,62 @@
 - 1x RAK Core Module
 - 1x [2.0 JST Connector](https://www.amazon.com/dp/B07NWD5NTN?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1)
 - 1x 3.7v 504050 LiPo Battery
+
+### Assembly of components
+
+#### Rotary Switch
+1. Install the end stop pins that came with your switch in the positions shown in the following image where one is placed between `9` and `10`, and the other is placed between `1` and `2`.
+    - *Note: Before installing the pins, ensure the flat side of the rotary switch shaft is at position `5` or `6`*
+      <p align="left"><img alt="Switch Pins" src="https://github.com/justcallmekoko/YetAnotherRuggedMeshtasticEUD/blob/main/images/switch_pins.jpg" width="500"></p>
+
+3. Solder the black wires of your male and female JST cables together
+4. Solder the red wire of the male JST cable to the "6-10" center pin of the rotary switch
+5. Solder the red wire of the female JST cable to the `6` pin
+    - *Note: Your wiring should look like the following image*
+      <p align="left"><img alt="Wiring" src="https://github.com/justcallmekoko/YetAnotherRuggedMeshtasticEUD/blob/main/images/switch_wiring.jpg" width="500"></p>
+
+6. Install all of your bulkhead components including SMA connectors, rotary switch, and USB connector
+    - *Note: The USB connector can only be installed one way*
+    - *Note: The rotary switch must be installed to that postitions `5` and `6` are facting up*
+      <p align="left"><img alt="Bulkhead" src="https://github.com/justcallmekoko/YetAnotherRuggedMeshtasticEUD/blob/main/images/bulkhead.jpg" width="500"></p>
+
+#### Main Board
+1. Install the Wisblock GPS module on the RAK19007 board using the included small screw
+      <p align="left"><img alt="GPS" src="https://github.com/justcallmekoko/YetAnotherRuggedMeshtasticEUD/blob/main/images/gps_module.jpg" width="500"></p>
+      
+3. Insert the USB-C plug of the USB-C adapter into your RAK19007 board
+    - *Note: Route the cable so that it tucks under the SMA pigtails and rotary switch*
+      <p align="left"><img alt="USB Cable" src="https://github.com/justcallmekoko/YetAnotherRuggedMeshtasticEUD/blob/main/images/usb_cable.jpg" width="500"></p>
+
+4. Install the main board into the main enclosure body using the RAK included screws
+5. Connect the pigtail cables to their respective IPEX connectors including the BLE antenna that came with your RAK device
+6. Press fit the BLE antenna in the small slot next to the main board
+      <p align="left"><img alt="BLE Antenna" src="https://github.com/justcallmekoko/YetAnotherRuggedMeshtasticEUD/blob/main/images/ble_antenna.jpg" width="500"></p>
+
+#### Enclosure
+1. Install six M3 brass inserts in the back of the enclosure main body
+      <p align="left"><img alt="Brass" src="https://github.com/justcallmekoko/YetAnotherRuggedMeshtasticEUD/blob/main/images/threads.jpg" width="500"></p>
+      
+2. Install three light pipes in the `C`, `H`, and `U` positions on your enclosure lid
+      <p align="left"><img alt="Light Pipes" src="https://github.com/justcallmekoko/YetAnotherRuggedMeshtasticEUD/blob/main/images/light_pipe.jpg" width="500"></p>
+
+3. Using double-sided tape, attach your LiPo pack to the inside of the enclosure lid
+      <p align="left"><img alt="Battery" src="https://github.com/justcallmekoko/YetAnotherRuggedMeshtasticEUD/blob/main/images/battery_placement.jpg" width="500"></p>
+
+4. Place the gasket and lid onto the enclosure main body so that the gasket is between the lid and main body
+      <p align="left"><img alt="Gasket" src="https://github.com/justcallmekoko/YetAnotherRuggedMeshtasticEUD/blob/main/images/gasket.jpg" width="500"></p>
+
+5. Using six M3x30mm screws, fasten the enclosure shut
+6. Install the power switch knob onto the rotary switch
+      <p align="left"><img alt="Gasket" src="https://github.com/justcallmekoko/YetAnotherRuggedMeshtasticEUD/blob/main/images/switch_cover.jpg" width="500"></p>
+
+## Usage
+- **The design is not intended to be waterproof.** It is simply meant to be water and dust resistant
+- To power the unit on, place the switch in the `I` position
+- To power the unit off, place the switch in the `O` position
+- Charge and program the device through the USB-C power mounted to the enclosure bulkhead
+- When connected to USB-C power, the device will only charge the battery when the switch is in the `I` position
+- When connected to USB-C power, the device will power on even if the switch is in the `O` position
+- Connect a GPS antenna to the SMA connector labeled `G`
+- Connect a LoRa antenna to the SMA connector labeled `L`
+- Use the side grid panel for indentification markings
