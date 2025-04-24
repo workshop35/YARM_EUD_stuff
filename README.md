@@ -1,5 +1,5 @@
 # YetAnotherRuggedMeshtasticEUD
-A huge thanks to anvlemedia. This build is based off of his initial design for a rugged Meshtastic enclosure. Our modifications externalize the LoRa and GPS antennas. Additionally, we also make use of a weather resistant USB-C adapter in place of the original Fischer connector to increase accessibility.
+A huge thanks to anvlmedia. This build is based off of his initial design for a rugged Meshtastic enclosure. Our modifications externalize the LoRa and GPS antennas. Additionally, we also make use of a weather resistant USB-C adapter in place of the original Fischer connector to increase accessibility.
  
 ## Assembly
 
