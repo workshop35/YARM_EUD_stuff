@@ -82,7 +82,11 @@ A huge thanks to anvlmedia. This build is based off of his initial design for a 
 
 ## Extra Printed Components
 - There are extra files located in the "STL" folder if you wish to print your own light pipes and USB passthrough.
-- The case is modified to removed the lanyard opening, the antenna mounting flange thickness is reduced, the the USB passthrough opening was altered.
+  <a href="https://github.com/workshop35/YARM_EUD_stuff/blob/06f0664fd07bfb7e5f15abcb8ad2165e72d469b8/Mechanical/STLs/mainBodyEdit.3mf">Case</a>
+  <a href="https://github.com/workshop35/YARM_EUD_stuff/blob/06f0664fd07bfb7e5f15abcb8ad2165e72d469b8/Mechanical/STLs/usbPassthrough.3mf">USB Passthrough</a>
+  <a href="https://github.com/workshop35/YARM_EUD_stuff/blob/06f0664fd07bfb7e5f15abcb8ad2165e72d469b8/Mechanical/STLs/usbCap.3mf">Dust Cap</a>
+  <a href="https://github.com/workshop35/YARM_EUD_stuff/blob/06f0664fd07bfb7e5f15abcb8ad2165e72d469b8/Mechanical/STLs/capLanyard.3mf">Cap Lanyard</a>
+- The case is modified to remove the lanyard opening, the antenna mounting flange thickness is reduced, the the USB passthrough opening was altered.
   <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/28bed2836d53fdf2c32b75fd225b185d3f1ab35f/images/caseEdit.png" width="500"></p>
   
 - The lightpipe is printed in clear PETG. **The "Arachne" wall generator was used in OrcaSlicer.**
