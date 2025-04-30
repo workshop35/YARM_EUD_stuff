@@ -79,4 +79,3 @@ A huge thanks to anvlmedia. This build is based off of his initial design for a 
 - Connect a GPS antenna to the SMA connector labeled `G`
 - Connect a LoRa antenna to the SMA connector labeled `L`
 - Use the side grid panel for indentification markings
-- Extra files for clear PETG lightpipe and printed USB passthrough and cap/lanyard are in the STL folder.
