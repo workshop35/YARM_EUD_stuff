@@ -79,3 +79,14 @@ A huge thanks to anvlmedia. This build is based off of his initial design for a 
 - Connect a GPS antenna to the SMA connector labeled `G`
 - Connect a LoRa antenna to the SMA connector labeled `L`
 - Use the side grid panel for indentification markings
+
+## Extra Printed Components
+- There are extra files located in the "STL" folder if you wish to print your own light pipes and USB passthrough.
+- The case is modified to removed the lanyard opening, the antenna mounting flange thickness is reduced, the the USB passthrough opening was altered.
+  <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/28bed2836d53fdf2c32b75fd225b185d3f1ab35f/images/caseEdit.png" width="500"></p>
+  
+- The lightpipe is printed in clear PETG. **The "Arachne" wall generator was used in OrcaSlicer.**
+  <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/28bed2836d53fdf2c32b75fd225b185d3f1ab35f/images/petgLightPipe.png" width="500"></p>
+
+- The USB passthrough is four parts: USB-C holder, retention nut, cap, and lanyard. The lanyard was printed in TPU.
+  <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/28bed2836d53fdf2c32b75fd225b185d3f1ab35f/images/usbPassthrough.png" width="500"></p>
