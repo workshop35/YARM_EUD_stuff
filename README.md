@@ -103,3 +103,9 @@ A huge thanks to anvlmedia. This build is based off of his initial design for a 
 
 - The USB passthrough is four parts: USB-C holder, retention nut, cap, and lanyard. The lanyard was printed in TPU.
   <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/28bed2836d53fdf2c32b75fd225b185d3f1ab35f/images/usbPassthrough.png" width="500"></p>
+
+<p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/1e5afafc195ce9163386b4b66046623e3d853447/images/capInstalled.jpg" width="500"></p>
+
+<p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/1e5afafc195ce9163386b4b66046623e3d853447/images/LightpipeInstalled.jpg" width="500"></p>
+
+<p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/1e5afafc195ce9163386b4b66046623e3d853447/images/caseWithPassthrough.jpg" width="500"></p>
