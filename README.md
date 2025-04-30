@@ -82,6 +82,7 @@ A huge thanks to anvlmedia. This build is based off of his initial design for a 
 
 ## Extra Printed Components
 - There are extra files located in the "STL" folder if you wish to print your own light pipes and USB passthrough.
+  
   <a href="https://github.com/workshop35/YARM_EUD_stuff/blob/06f0664fd07bfb7e5f15abcb8ad2165e72d469b8/Mechanical/STLs/mainBodyEdit.3mf">Case</a>
   
   <a href="https://github.com/workshop35/YARM_EUD_stuff/blob/06f0664fd07bfb7e5f15abcb8ad2165e72d469b8/Mechanical/STLs/usbPassthrough.3mf">USB Passthrough</a>
