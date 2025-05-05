@@ -114,7 +114,7 @@ https://github.com/user-attachments/assets/33cab01c-ab12-4689-82cd-6a3599bcc097
 - Cut roughly two inches of a four-conductor ribbon cable (four individual wires also work). Solder one end to the female USB breakout in the holder from the previous step. Solder the other to a male USB breakout. The connections are straight through without crossover. Use 3/8" or equivalent shrink tube to insulate the connections.
    <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/afdc7702d2fe8f17967b4ad596d43a6f0784559c/images/usb_cable_complete.jpg" width="500"></p>
 
-- Install the male end of the cable into the RAK19007 board. You may have to loosen the board for it to fit. ##This will not fit into the original case, you must use the modified version linked above##.
+- Install the male end of the cable into the RAK19007 board. You may have to loosen the board for it to fit. **This will not fit into the original case, you must use the modified version linked above**.
   <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/afdc7702d2fe8f17967b4ad596d43a6f0784559c/images/usb_installed.jpg" width="500"></p>
 
 - Verify functionality by connecting a USB power source.
