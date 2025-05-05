@@ -108,8 +108,21 @@ https://github.com/user-attachments/assets/33cab01c-ab12-4689-82cd-6a3599bcc097
 - The USB passthrough is four parts: USB-C holder, retention nut, cap, and lanyard. The lanyard was printed in TPU.
   <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/28bed2836d53fdf2c32b75fd225b185d3f1ab35f/images/usbPassthrough.png" width="500"></p>
 
-<p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/1e5afafc195ce9163386b4b66046623e3d853447/images/capInstalled.jpg" width="500"></p>
+- Press-fit the female USB breakout board into the holder. This is a very tight fit and may require adjustments to the print depending on your printer.
+  <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/1e5afafc195ce9163386b4b66046623e3d853447/images/capInstalled.jpg" width="500"></p>
 
-<p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/1e5afafc195ce9163386b4b66046623e3d853447/images/LightpipeInstalled.jpg" width="500"></p>
+- Cut roughly two inches of a four-conductor ribbon cable (four individual wires also work). Solder one end to the female USB breakout in the holder from the previous step. Solder the other to a male USB breakout. The connections are straight through without crossover. Use 3/8" or equivalent shrink tube to insulate the connections.
+   <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/1e5afafc195ce9163386b4b66046623e3d853447/images/capInstalled.jpg" width="500"></p>
 
-<p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/1e5afafc195ce9163386b4b66046623e3d853447/images/caseWithPassthrough.jpg" width="500"></p>
+- Install the male end of the cable into the RAK19007 board. You may have to loosen the board for it to fit. ##This will not fit into the original case, you must use the modified version linked above##.
+  <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/1e5afafc195ce9163386b4b66046623e3d853447/images/capInstalled.jpg" width="500"></p>
+
+- Verify functionality by connecting a USB power source.
+  <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/1e5afafc195ce9163386b4b66046623e3d853447/images/capInstalled.jpg" width="500"></p>  
+
+
+  <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/1e5afafc195ce9163386b4b66046623e3d853447/images/capInstalled.jpg" width="500"></p>
+
+  <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/1e5afafc195ce9163386b4b66046623e3d853447/images/LightpipeInstalled.jpg" width="500"></p>
+
+  <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/1e5afafc195ce9163386b4b66046623e3d853447/images/caseWithPassthrough.jpg" width="500"></p>
