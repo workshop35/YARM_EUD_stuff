@@ -95,7 +95,7 @@ A huge thanks to anvlmedia. This build is based off of his initial design for a 
 
   <a href="https://github.com/workshop35/YARM_EUD_stuff/blob/0d7214ca557dbc08e7389d28ac9c6c2bc0039537/Mechanical/STLs/lightPipe.3mf">Light Pipe</a>
   
-  - [USB-C Breakout](https://a.co/d/73ktVuH)
+  [USB-C Breakout Boards](https://a.co/d/73ktVuH)
 
    https://github.com/user-attachments/assets/33cab01c-ab12-4689-82cd-6a3599bcc097
 
