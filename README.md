@@ -103,19 +103,19 @@ https://github.com/user-attachments/assets/33cab01c-ab12-4689-82cd-6a3599bcc097
   <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/28bed2836d53fdf2c32b75fd225b185d3f1ab35f/images/caseEdit.png" width="500"></p>
   
 - The lightpipe is printed in clear PETG. **The "Arachne" wall generator was used in OrcaSlicer.** Insert a pipe into each opening and fix with an adhesive.
-  <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/28bed2836d53fdf2c32b75fd225b185d3f1ab35f/images/petgLightPipe.png" width="500"></p>
+  <p align="left"><img alt="Light Pipe" src="https://github.com/workshop35/YARM_EUD_stuff/blob/28bed2836d53fdf2c32b75fd225b185d3f1ab35f/images/petgLightPipe.png" width="500"></p>
 
 - The USB passthrough is four parts: USB-C holder, retention nut, cap, and lanyard. The lanyard was printed in TPU.
-  <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/28bed2836d53fdf2c32b75fd225b185d3f1ab35f/images/usbPassthrough.png" width="500"></p>
+  <p align="left"><img alt="Components" src="https://github.com/workshop35/YARM_EUD_stuff/blob/28bed2836d53fdf2c32b75fd225b185d3f1ab35f/images/usbPassthrough.png" width="500"></p>
 
 - Press-fit the female USB breakout board into the holder. This is a very tight fit and may require adjustments to the print depending on your printer.
-  <p align="left"><img alt="Case" src="[https://github.com/workshop35/YARM_EUD_stuff/blob/ddf75c862a6e5070ed74ead452c93b2d0c60de85/images/usb_pressed.jpg](https://github.com/workshop35/YARM_EUD_stuff/blob/afdc7702d2fe8f17967b4ad596d43a6f0784559c/images/usb_pressed.jpg)" width="500"></p>
+  <p align="left"><img alt="USB Pressed-In" src="https://github.com/workshop35/YARM_EUD_stuff/blob/1ecce05b40116ae93a889a9c6f5ca5a717c85e53/images/usb_pressed.jpg" width="500"></p>
 
 - Cut roughly two inches of a four-conductor ribbon cable (four individual wires also work). Solder one end to the female USB breakout in the holder from the previous step. Solder the other to a male USB breakout. The connections are straight through without crossover. Use 3/8" or equivalent shrink tube to insulate the connections.
-   <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/afdc7702d2fe8f17967b4ad596d43a6f0784559c/images/usb_cable_complete.jpg" width="500"></p>
+   <p align="left"><img alt="USB Cable" src="https://github.com/workshop35/YARM_EUD_stuff/blob/afdc7702d2fe8f17967b4ad596d43a6f0784559c/images/usb_cable_complete.jpg" width="500"></p>
 
 - Install the male end of the cable into the RAK19007 board. You may have to loosen the board for it to fit. **This will not fit into the original case, you must use the modified version linked above**.
-  <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/afdc7702d2fe8f17967b4ad596d43a6f0784559c/images/usb_installed.jpg" width="500"></p>
+  <p align="left"><img alt="Cable Install" src="https://github.com/workshop35/YARM_EUD_stuff/blob/afdc7702d2fe8f17967b4ad596d43a6f0784559c/images/usb_installed.jpg" width="500"></p>
 
 - Verify functionality by connecting a USB power source.
-  <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/afdc7702d2fe8f17967b4ad596d43a6f0784559c/images/usb_charging.jpg" width="500"></p>  
+  <p align="left"><img alt="Ops Check" src="https://github.com/workshop35/YARM_EUD_stuff/blob/afdc7702d2fe8f17967b4ad596d43a6f0784559c/images/usb_charging.jpg" width="500"></p>  
