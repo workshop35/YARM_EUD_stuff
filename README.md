@@ -102,7 +102,7 @@ https://github.com/user-attachments/assets/33cab01c-ab12-4689-82cd-6a3599bcc097
 - The case is modified to remove the lanyard opening, the antenna mounting flange thickness is reduced, the the USB passthrough opening was altered.
   <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/28bed2836d53fdf2c32b75fd225b185d3f1ab35f/images/caseEdit.png" width="500"></p>
   
-- The lightpipe is printed in clear PETG. **The "Arachne" wall generator was used in OrcaSlicer.**
+- The lightpipe is printed in clear PETG. **The "Arachne" wall generator was used in OrcaSlicer.** Insert a pipe into each opening and fix with an adhesive.
   <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/28bed2836d53fdf2c32b75fd225b185d3f1ab35f/images/petgLightPipe.png" width="500"></p>
 
 - The USB passthrough is four parts: USB-C holder, retention nut, cap, and lanyard. The lanyard was printed in TPU.
