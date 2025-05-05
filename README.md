@@ -119,10 +119,3 @@ https://github.com/user-attachments/assets/33cab01c-ab12-4689-82cd-6a3599bcc097
 
 - Verify functionality by connecting a USB power source.
   <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/ddf75c862a6e5070ed74ead452c93b2d0c60de85/images/usb_charging.jpg" width="500"></p>  
-
-
-  <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/1e5afafc195ce9163386b4b66046623e3d853447/images/capInstalled.jpg" width="500"></p>
-
-  <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/1e5afafc195ce9163386b4b66046623e3d853447/images/LightpipeInstalled.jpg" width="500"></p>
-
-  <p align="left"><img alt="Case" src="https://github.com/workshop35/YARM_EUD_stuff/blob/1e5afafc195ce9163386b4b66046623e3d853447/images/caseWithPassthrough.jpg" width="500"></p>
